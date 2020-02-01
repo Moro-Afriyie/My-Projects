@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Encrypting and Decrypting messages/.idea/Encrypting and Decrypting messages.iml" filepath="$PROJECT_DIR$/../Encrypting and Decrypting messages/.idea/Encrypting and Decrypting messages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hangman game.iml" filepath="$PROJECT_DIR$/.idea/Hangman game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scrabble/.idea/Scrabble.iml" filepath="$PROJECT_DIR$/../Scrabble/.idea/Scrabble.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/moro/.idea/moro.iml" filepath="$USER_HOME$/PycharmProjects/moro/.idea/moro.iml" />
+    </modules>
+  </component>
+</project>
